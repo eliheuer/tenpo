@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="832"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="216" y="16" type="line"/>
+      <point x="152" y="48" type="line"/>
+      <point x="152" y="508" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="644" y="507" type="line"/>
+      <point x="644" y="48" type="line"/>
+      <point x="580" y="16" type="line"/>
+      <point x="580" y="0" type="line"/>
+      <point x="800" y="0" type="line"/>
+      <point x="800" y="16" type="line"/>
+      <point x="736" y="48" type="line"/>
+      <point x="736" y="656" type="line"/>
+      <point x="800" y="688" type="line"/>
+      <point x="800" y="704" type="line"/>
+      <point x="672" y="704" type="line"/>
+      <point x="411" y="123" type="line"/>
+      <point x="160" y="704" type="line"/>
+      <point x="32" y="704" type="line"/>
+      <point x="32" y="688" type="line"/>
+      <point x="96" y="648" type="line"/>
+      <point x="96" y="48" type="line"/>
+      <point x="32" y="16" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="216" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
