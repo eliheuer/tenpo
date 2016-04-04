@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="284"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="171" y="-24" type="curve" smooth="yes"/>
+      <point x="233" y="-39"/>
+      <point x="291" y="-4"/>
+      <point x="307" y="58" type="curve"/>
+      <point x="276" y="66" type="line"/>
+      <point x="270" y="42"/>
+      <point x="241" y="25"/>
+      <point x="214" y="32" type="curve" smooth="yes"/>
+      <point x="187" y="38"/>
+      <point x="173" y="66"/>
+      <point x="179" y="90" type="curve" smooth="yes"/>
+      <point x="260" y="416" type="line"/>
+      <point x="369" y="389" type="line"/>
+      <point x="380" y="435" type="line"/>
+      <point x="272" y="462" type="line"/>
+      <point x="308" y="610" type="line"/>
+      <point x="266" y="620" type="line"/>
+      <point x="248" y="551"/>
+      <point x="198" y="481"/>
+      <point x="120" y="500" type="curve"/>
+      <point x="109" y="454" type="line"/>
+      <point x="179" y="436" type="line"/>
+      <point x="97" y="110" type="line" smooth="yes"/>
+      <point x="82" y="48"/>
+      <point x="113" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

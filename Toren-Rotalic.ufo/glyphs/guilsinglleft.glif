@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglleft" format="1">
+  <advance width="608"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="436" y="66" type="line"/>
+      <point x="331" y="241" type="line"/>
+      <point x="506" y="345" type="line"/>
+      <point x="482" y="384" type="line"/>
+      <point x="261" y="291" type="line"/>
+      <point x="246" y="229" type="line"/>
+      <point x="397" y="43" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
