@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-192</integer>
 	<key>familyName</key>
-	<string>Clocktower Beta 4.0</string>
+	<string>Toren</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>openTypeHeadCreated</key>
@@ -34,13 +34,11 @@
 	<key>openTypeHheaLineGap</key>
 	<integer>200</integer>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Clocktower Beta 4.0</string>
+	<string>Toren</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Headline rotalic</string>
+	<string>Rotalic</string>
 	<key>openTypeNameUniqueID</key>
-	<string>0.000;NONE;ClocktowerBeta4.0-Headlinerotalic</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 0.000;PS 0.0;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT</string>
+	<string></string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -136,12 +134,8 @@
 		<integer>-208</integer>
 		<integer>-192</integer>
 	</array>
-	<key>postscriptFontName</key>
-	<string>ClocktowerBeta4.0-Headlinerotalic</string>
 	<key>postscriptForceBold</key>
 	<false/>
-	<key>postscriptFullName</key>
-	<string>Clocktower Beta 4.0 Headline rotalic</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
@@ -166,12 +160,10 @@
 	<integer>0</integer>
 	<key>postscriptWeightName</key>
 	<string>Normal</string>
-	<key>styleMapFamilyName</key>
-	<string>Clocktower Beta 4.0 Headline rotalic</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Headline rotalic</string>
+	<string>Rotalic</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

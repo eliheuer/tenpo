@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-192</integer>
 	<key>familyName</key>
-	<string>Clocktower Beta 3.0</string>
+	<string>Toren</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>openTypeHeadCreated</key>
@@ -36,19 +36,11 @@
 	<key>openTypeNameDesigner</key>
 	<string>Eli Heuer</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>www.eliheuer.com</string>
+	<string>eliheuer.info</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Choices Type Label</string>
+	<string></string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>www.choices.tl</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Clocktower Beta 3.0</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Mono</string>
-	<key>openTypeNameUniqueID</key>
-	<string>0.000;NONE;ClocktowerBeta3.0-Mono</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 0.000;PS (version unavailable);hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT</string>
+	<string></string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -144,12 +136,8 @@
 		<integer>-208</integer>
 		<integer>-192</integer>
 	</array>
-	<key>postscriptFontName</key>
-	<string>ClocktowerBeta3.0-Mono</string>
 	<key>postscriptForceBold</key>
 	<false/>
-	<key>postscriptFullName</key>
-	<string>Clocktower Beta 3.0 Mono</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
@@ -175,7 +163,7 @@
 	<key>postscriptWeightName</key>
 	<string>Normal</string>
 	<key>styleMapFamilyName</key>
-	<string>Clocktower Beta 3.0 Mono</string>
+	<string></string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>

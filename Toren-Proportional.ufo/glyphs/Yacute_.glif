@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+  <advance width="608"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <contour>
+      <point x="192" y="736" type="line"/>
+      <point x="375" y="821" type="line"/>
+      <point x="395" y="829"/>
+      <point x="408" y="848"/>
+      <point x="408" y="872" type="curve" smooth="yes"/>
+      <point x="408" y="904"/>
+      <point x="384" y="928"/>
+      <point x="352" y="928" type="curve" smooth="yes"/>
+      <point x="336" y="928"/>
+      <point x="322" y="922"/>
+      <point x="312" y="912" type="curve" smooth="yes"/>
+      <point x="168" y="768" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="328" type="line"/>
+      <point x="256" y="56" type="line"/>
+      <point x="192" y="24" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="416" y="24" type="line"/>
+      <point x="352" y="56" type="line"/>
+      <point x="352" y="328" type="line"/>
+      <point x="512" y="648" type="line"/>
+      <point x="576" y="680" type="line"/>
+      <point x="576" y="704" type="line"/>
+      <point x="384" y="704" type="line"/>
+      <point x="384" y="680" type="line"/>
+      <point x="448" y="648" type="line"/>
+      <point x="324" y="400" type="line"/>
+      <point x="200" y="648" type="line"/>
+      <point x="264" y="680" type="line"/>
+      <point x="264" y="704" type="line"/>
+      <point x="32" y="704" type="line"/>
+      <point x="32" y="680" type="line"/>
+      <point x="96" y="648" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

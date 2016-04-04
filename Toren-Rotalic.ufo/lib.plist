@@ -4,8 +4,29 @@
 <dict>
 	<key>com.typemytype.robofont.binarySource</key>
 	<string>/Users/eli/type/Toren/Toren-Rotalic.otf</string>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.autohint</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.decompose</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/eli/type/Toren/Toren-Rotalic.otf</string>
+	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.italicSlantOffset</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.layerOrder</key>
+	<array>
+	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
+	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
